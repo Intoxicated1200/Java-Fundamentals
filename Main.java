@@ -2,7 +2,7 @@ public class Main{
 
     public static void main(String[] args){
         String[] list = {"Hello", "I", "am", "a", "list"};
-        String word = "Hello, I am a String";
+        String word = "test";
         print(word);
         forLoopList(list);
         forLoopWord(word);
@@ -23,6 +23,7 @@ public class Main{
             System.out.println(word.charAt(index));
         }
     }
+    
 }
 
 //1. Data types, the importance of them
