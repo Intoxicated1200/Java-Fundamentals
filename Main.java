@@ -24,3 +24,8 @@ public class Main{
         }
     }
 }
+
+//1. Data types, the importance of them
+//2. Hello, world
+//3. Variable Declaring
+//4. 
